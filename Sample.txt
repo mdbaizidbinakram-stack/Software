@@ -1,1 +1,14 @@
-Software Engineering [R]
+git config --global user.name "..............."
+git config --global user.email ".............."
+git init
+git remote add origin ............
+git branch -M main
+git add .
+git commit -m "Initial Commit"
+git push -u origin main
+git add "file name.file type"
+git commit -m "Initial Commit"
+git push -u origin main
+git rm file name.file type
+git commit -m "Delete file name.file type"
+git push -u origin main
